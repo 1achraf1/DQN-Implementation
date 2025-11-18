@@ -21,9 +21,9 @@ DQN-Implementation/
 │   ├── model.py           # Neural Network architecture (Q-Network)
 │   ├── replay_buffer.py   # Experience Replay Buffer implementation
 │   └── train.py           # Main training loop and environment interaction
-├── media/                 # Images and GIFs of the agent's performance
+├── media/                 # Demo and images of the agent's performance
 ├── .gitignore
-├── requirements.txt       # (Optional) Python dependencies
+├── requirements.txt       #  Python dependencies
 └── README.md
 ```
 
