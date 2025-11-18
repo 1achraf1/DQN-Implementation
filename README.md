@@ -49,12 +49,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-If you don't have a `requirements.txt`, simply install the core packages:
-
-```bash
-pip install torch gym numpy matplotlib
-```
-
 ## 🏃 Usage
 
 To train the DQN agent on the CartPole-v1 environment, run the training script:
