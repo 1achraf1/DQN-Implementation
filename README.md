@@ -59,7 +59,7 @@ python -m dqn.train
 
 ### Hyperparameters
 
-You can typically adjust hyperparameters in the `train.py` file (or wherever the configuration is defined):
+You can typically adjust hyperparameters in the `config.py` file:
 
 - `lr`: Learning Rate (e.g., 1e-3)
 - `gamma`: Discount factor (e.g., 0.99)
