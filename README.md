@@ -57,8 +57,6 @@ To train the DQN agent on the CartPole-v1 environment, run the training script:
 python -m dqn.train
 ```
 
-*(Note: Adjust the command depending on where your main entry point is located, e.g., `python dqn/train.py`)*
-
 ### Hyperparameters
 
 You can typically adjust hyperparameters in the `train.py` file (or wherever the configuration is defined):
